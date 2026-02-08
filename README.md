@@ -85,17 +85,3 @@ New questions and answers can be added by simply editing faq.txt. No code change
 
 ## Conclusion
 This project demonstrates a practical and efficient approach to building a travel FAQ assistant using fundamental programming concepts. It serves as a strong foundation that can be enhanced with advanced techniques in future iterations.
-
----
-
-### Why this README is good for your internship submission
-- Honest about scope
-- No overclaiming
-- Clean engineering explanation
-- Shows you understand **trade-offs**
-- Evaluators can clearly see what you built and why
-
-If you want, next I can:
-- shorten it (if they prefer concise READMEs)
-- tailor it specifically to the **Intel challenge wording**
-- add a small **architecture diagram (ASCII)**
